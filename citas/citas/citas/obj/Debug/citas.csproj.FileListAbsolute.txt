@@ -1,0 +1,7 @@
+C:\Users\Issei\OneDrive\Documentos\Prácticas\citas\citas\obj\Debug\citas.csproj.AssemblyReference.cache
+C:\Users\Issei\OneDrive\Documentos\Prácticas\citas\citas\obj\Debug\citas.csproj.CoreCompileInputs.cache
+C:\Users\Issei\OneDrive\Documentos\Prácticas\citas\citas\bin\Debug\citas.exe.config
+C:\Users\Issei\OneDrive\Documentos\Prácticas\citas\citas\bin\Debug\citas.exe
+C:\Users\Issei\OneDrive\Documentos\Prácticas\citas\citas\bin\Debug\citas.pdb
+C:\Users\Issei\OneDrive\Documentos\Prácticas\citas\citas\obj\Debug\citas.exe
+C:\Users\Issei\OneDrive\Documentos\Prácticas\citas\citas\obj\Debug\citas.pdb
